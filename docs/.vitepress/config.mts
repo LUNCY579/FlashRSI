@@ -32,7 +32,7 @@ export default defineConfig({
       { text: 'Project page', link: '/project.html', activeMatch: '^/project\\.html$' },
       { text: 'Guide', link: '/guide/installation', activeMatch: '^/(guide/|$|index)' },
       { text: 'Integrations', link: '/integrations/algorithms', activeMatch: '^/integrations/' },
-      { text: 'Build', link: '/development/framework', activeMatch: '^/development/' },
+      { text: 'Build', link: '/development/', activeMatch: '^/development/' },
       { text: '简体中文', link: '/usage.zh-CN' },
     ],
     sidebar: [
@@ -67,6 +67,7 @@ export default defineConfig({
         item('Harnesses', '/integrations/harnesses'),
       ] },
       { text: 'Build on FlashRSI', items: [
+        item('Add an integration', '/development/'),
         item('Add a benchmark', '/development/benchmark'),
         item('Add a harness', '/development/harness'),
         item('Add an algorithm', '/development/algorithm'),
