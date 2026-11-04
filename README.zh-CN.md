@@ -535,7 +535,7 @@ SkillOpt 的快慢更新、选优规则和参数预算见 [SkillOpt 使用说明
       <td align="left">Mini-Agent</td>
       <td align="center">81.64<br><sub>+5.21 pp</sub></td>
       <td align="center">59.76<br><sub>+1.22 pp</sub></td>
-      <td align="center"><strong>76.67</strong><br><sub>+10.00 pp</sub></td>
+      <td align="center">73.33<br><sub>+6.66 pp</sub></td>
       <td align="center">84.52<br><sub>+19.04 pp</sub></td>
       <td align="center"><strong>68.67</strong><br><sub>+9.34 pp</sub></td>
       <td align="center">83.00<br><sub>+8.67 pp</sub></td>
