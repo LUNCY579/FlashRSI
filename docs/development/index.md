@@ -11,3 +11,5 @@ Start with the guide for the component you are adding. Use the closest existing 
 The runner connects these components. The algorithm selects a Snapshot, and the runner evaluates that version on held-out test tasks. A Snapshot carries harness resources. The destination benchmark supplies its own task data, tools, and verifier when the Snapshot is evaluated elsewhere. See the [framework overview](./framework.md) and the [MVP contract](../../mvp_doc.md) for the interfaces.
 
 For a contribution, include a configuration example, the supported capabilities and prerequisites, and the validation you performed. Distinguish an offline check, successful initialization, and a real run that reached the grader.
+
+See the [algorithm inventory](./algorithm-inventory.md) for the implemented methods, editable resources, selection rules, and Worker requirements.

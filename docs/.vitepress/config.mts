@@ -69,6 +69,7 @@ export default defineConfig({
         item('Add a benchmark', '/development/benchmark'),
         item('Add a harness', '/development/harness'),
         item('Add an algorithm', '/development/algorithm'),
+        item('Algorithm inventory', '/development/algorithm-inventory'),
       ] },
       { text: 'Reference', items: [
         item('FAQ', '/faq'),
